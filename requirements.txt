@@ -1,0 +1,5 @@
+python
+streamlit
+pandas
+openpyxl
+pywhatkit
